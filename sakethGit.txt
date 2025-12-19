@@ -1,0 +1,1 @@
+I have been written in nano. Then, I have been uploaded into staging area first, followed by into git repo second.
